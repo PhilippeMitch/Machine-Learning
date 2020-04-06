@@ -1,0 +1,3 @@
+[submodule "Fraud_detection"]
+	path = Fraud_detection
+	url = https://github.com/PhilippeMitch/Fraud_detection.git
